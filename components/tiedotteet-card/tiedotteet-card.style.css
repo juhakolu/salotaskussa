@@ -1,0 +1,11 @@
+.card::-webkit-scrollbar{
+  display: none
+}
+
+.card{
+  scrollbar-width: none;
+}
+
+.card{
+  cursor: pointer;
+}
